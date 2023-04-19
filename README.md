@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - 🤔  I’m looking for help with improving my coding skills and learning best practices in software development.
 - 💬 Ask me about mathematical modeling, optimization, or numerical analysis.
 -->
+<img src="https://github-readme-stats.vercel.app/api?username=fluntin&show_icons=true"/>
