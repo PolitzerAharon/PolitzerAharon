@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about mathematical modeling, optimization, or numerical analysis.
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=fluntin&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fluntin"/>
