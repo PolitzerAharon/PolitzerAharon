@@ -6,5 +6,4 @@
 - 🤔  I’m looking for help with improving my coding skills and learning best practices in software development.
 - 💬 Ask me about mathematical modeling, optimization, or numerical analysis.
 
-<img src="https://github-readme-stats.vercel.app/api?username=fluntin&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fluntin&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=fluntin&show_icons=true&theme=dark"/>
