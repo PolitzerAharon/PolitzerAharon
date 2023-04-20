@@ -10,8 +10,6 @@
 
 - 💬 Ask me about mathematical modeling, optimization, or numerical analysis.
 
-<img src="https://github-readme-stats.vercel.app/api?username=fluntin&show_icons=true&theme=dark"/>
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
@@ -20,3 +18,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"  title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go " width="40" height="40"/>&nbsp;
 </div>
+
+### :fire: My Stats :
+
+<img src="https://github-readme-stats.vercel.app/api?username=fluntin&show_icons=true&theme=dark"/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-fluntin&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
