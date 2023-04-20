@@ -22,6 +22,9 @@
 ### :fire: My Stats :
 
 <img src="https://github-readme-stats.vercel.app/api?username=fluntin&show_icons=true&theme=dark"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fluntin"/>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-fluntin&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
