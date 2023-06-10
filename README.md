@@ -19,7 +19,7 @@
   
 </div>
 
-### :fire: My Stats :
+### :fire: Stats :
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fluntin&theme=dark"/>
