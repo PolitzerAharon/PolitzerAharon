@@ -23,5 +23,5 @@
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fluntin&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluntin&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluntin&layout=compact&theme=light"/>
 
