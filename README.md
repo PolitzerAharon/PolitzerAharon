@@ -1,14 +1,16 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on multiple projects related to my degree in Applied Mathematics from the Royal Institute of Technology.
+### Hey! 👋
 
-- 🌱 I’m currently learning new programming languages and machine learning techniques.
+- 🔭 Working on various projects for my Applied Mathematics degree from KTH.
 
-- 👯 I’m looking to collaborate on projects related to data science, machine learning, or computational mathematics.
+- 🌱 Learning new programming languages and ML techniques.
 
-- 🤔  I’m looking for help with improving my coding skills and learning best practices in software development.
+- 👯 Seeking collaboration in data science, ML, or computational math projects.
 
-- 💬 Ask me about mathematical modeling, optimization, or numerical analysis.
+- 🤔 Needing assistance to enhance coding skills and adopt software development best practices.
+
+- 💬 Discuss mathematical modeling, optimization, or numerical analysis with me.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -19,5 +21,10 @@
 
 ### :fire: Stats :
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluntin&layout=compact&theme=light"/>
+![](https://github-readme-stats.vercel.app/api?username=Fluntin&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Fluntin&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fluntin&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Fluntin&icon=0&color=0)](https://visitcount.itsvg.in)
 
