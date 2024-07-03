@@ -18,5 +18,3 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </div>
 </br>
----
-[![](https://visitcount.itsvg.in/api?id=Fluntin&icon=0&color=0)](https://visitcount.itsvg.in)
