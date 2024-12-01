@@ -16,7 +16,6 @@ I am an Applied and Computational Mathematics student at KTH Royal Institute of 
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>
   <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" title="C++" alt="C++" width="40" height="40"/>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
 </div>
 </br>
 
@@ -27,15 +26,15 @@ I am an Applied and Computational Mathematics student at KTH Royal Institute of 
 - 🚀 [Gravitational Slingshot: ](https://github.com/PolitzerAharon/Python/blob/main/Gravitational%20Slingshot%20with%20ODEs/README.md) <br>  Advanced ODE solver implementing Symplectic Euler and RK4 methods to simulate spacecraft trajectories and planetary orbits
 - 📊 [Competitive Skating Predictor: ](https://github.com/PolitzerAharon/Python/tree/main/Predictive%20Modeling%20for%20Skateboarding%20LCQ%20Outcomes) <br>  Statistical learning model using Bayesian hierarchical methods to predict skateboarding competition outcomes
 
-### Matlab
+### <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="20" height="20"/>  Matlab
 - 💹 [Black-Scholes Implementation: ](https://github.com/PolitzerAharon/Matlab/tree/main/Black_Scholes%20_FDM_and_FEM) <br>   Comprehensive option pricing system using FEM and FDM methods with interactive visualization of Greeks and market parameters
 
-### C++
+### <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" width="20" height="20"/>   C++
 - 🔢 [Adaptive Simpson Integration: ](https://github.com/PolitzerAharon/Cpp/tree/main/Adaptive%20Simpson%20Integration)<br> Implementation of adaptive quadrature with error control and performance optimization
 - 🌳 [Spatial Search with Quadtrees: ](https://github.com/PolitzerAharon/Cpp/tree/main/Spatial%20Search%20with%20Quadtrees) <br> Geographic data structure implementation for efficient spatial querying of Swedish districts and lakes
 - 📐 [Curve-Based Grid Generation System: ](https://github.com/PolitzerAharon/Cpp/tree/main/Curve-Based%20Grid%20Generation%20System) <br> Structured grid generator using arc-length parameterized curves with 90x performance improvement through caching
 
-### Java
+### <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="20" height="20"/>   Java
 - 🔄 [Brownian Motion: ](https://github.com/PolitzerAharon/Java/tree/main/Brownian%20motion) <br> Java-based particle physics simulation with interactive controls for time-step and vector magnitude adjustments
 
 ## Education
