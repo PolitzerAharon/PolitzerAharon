@@ -1,4 +1,4 @@
-# Hi, I'm Villim Prpić 👋
+# Hi, I'm Villim 👋
 
 I am an Applied and Computational Mathematics student at KTH Royal Institute of Technology, passionate about AI, data science, and business development.
 </br>
@@ -18,7 +18,7 @@ I am an Applied and Computational Mathematics student at KTH Royal Institute of 
 ## Leadership
 - :robot: [KTH AI Society: ](https://kthais.com) Chairman of the Board (2024-2025)<br> 
  I am passionate about Artificial Intelligence and its potential to change the world.
-- :rocket: [KTH AI Society: ](https://kthais.com) Head of Business Development (2023-2024) @ [KTH AI Society](https://kthais.com) : <br> 
+- :rocket: [KTH AI Society: ](https://kthais.com) Head of Business Development (2023-2024)<br> 
 Established collaborations with QuantumBlack, Nvidia, and Google
 
 ## Projects
