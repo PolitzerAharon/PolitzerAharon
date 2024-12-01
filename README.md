@@ -9,7 +9,7 @@ I am an Applied and Computational Mathematics student at KTH Royal Institute of 
 - :books: Constantly learning and expanding my knowledge.
 
 ## Projects
-</br>
+
 <h3 align="left">Languages and Tools:</h3>
 <div style="margin-bottom: 20px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
