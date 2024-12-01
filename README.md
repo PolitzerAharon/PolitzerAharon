@@ -12,7 +12,16 @@ I am an Applied and Computational Mathematics student at KTH Royal Institute of 
 ---
 
 ### Python
----
+- 📄 [The Paper Puzzle: ](https://github.com/PolitzerAharon/Python/tree/main/The%20Paper%20Puzzle%20-%20A1%20from%20Fragments) <br>  Dynamic programming solution for optimizing paper sheet combinations with geometric progression calculations
+
+- 📈 [Stock Analysis Tool: ](https://github.com/PolitzerAharon/Python/tree/main/Stock%20Analysis%20Tool) <br>  Real-time stock metrics analyzer with both fundamental and technical analysis, featuring GUI and CLI interfaces
+
+- 🦅 [Bird Movement Analysis: ](https://github.com/PolitzerAharon/Python/tree/main/Movement%20Analysis%20-%20Parus%20major) <br>  Time series analysis tool visualizing daily, weekly, and yearly patterns of Parus major movements with sunrise/sunset integration
+
+- 🚀 [Gravitational Slingshot: ](https://github.com/PolitzerAharon/Python/blob/main/Gravitational%20Slingshot%20with%20ODEs/README.md) <br>  Advanced ODE solver implementing Symplectic Euler and RK4 methods to simulate spacecraft trajectories and planetary orbits
+
+- 📊 [Competitive Skating Predictor: ](https://github.com/PolitzerAharon/Python/tree/main/Predictive%20Modeling%20for%20Skateboarding%20LCQ%20Outcomes) <br>  Statistical learning model using Bayesian hierarchical methods to predict skateboarding competition outcomes
+
 
 ### C++
 - 🔢 [Adaptive Simpson Integration: ](https://github.com/PolitzerAharon/Cpp/tree/main/Adaptive%20Simpson%20Integration)<br> Implementation of adaptive quadrature with error control and performance optimization
@@ -20,11 +29,12 @@ I am an Applied and Computational Mathematics student at KTH Royal Institute of 
 - 📐 [Curve-Based Grid Generation System: ](https://github.com/PolitzerAharon/Cpp/tree/main/Curve-Based%20Grid%20Generation%20System) <br> Structured grid generator using arc-length parameterized curves with 90x performance improvement through caching
 
 ## Education
-- :mortar_board: Applied and Computational Mathematics, Royal Institute of Technology (KTH), 2022-2027.
-- :mortar_board: Natural Sciences - Physics, Lund University (2021-2022)
-- :robot: AI Society: Chairman of the Board (2024-2025) [KTH AI Society](https://kthais.com) : I am passionate about Artificial Intelligence and its potential to change the world.
-- :rocket: AI Society: Head of Business Development (2023-2024) [KTH AI Society](https://kthais.com) : I am passionate about Artificial Intelligence and its potential to change the world.
-
+- :mortar_board: Applied and Computational Mathematics, Royal Institute of Technology, (2022-2027)
+- :mortar_board: Natural Sciences - Physics, Lund University, (2021-2022)
+- :robot: AI Society: Chairman of the Board (2024-2025) @ [KTH AI Society](https://kthais.com):<br> 
+ I am passionate about Artificial Intelligence and its potential to change the world.
+- :rocket: AI Society: Head of Business Development (2023-2024) @ [KTH AI Society](https://kthais.com) : <br> 
+Established collaborations with QuantumBlack, Nvidia, and Google
 
 ## Contact Me
 - :email: E-mail: villim@kth.se and villim@kthais.com
