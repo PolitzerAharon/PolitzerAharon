@@ -16,9 +16,9 @@ I am an Applied and Computational Mathematics student at KTH Royal Institute of 
 - :mortar_board: [Natural Sciences - Physics](https://www.lunduniversity.lu.se/lubas/i-uoh-lu-NGNAT-ENFY), Lund University, (2021-2022)
 - 🌳 [Forest Engineering](https://www.sumfak.unizg.hr/en/study-programmes/forestry-studies/undergraduate-studies/), Faculty of Forestry, (2014-2017)
 ## Leadership
-- :robot: AI Society: Chairman of the Board (2024-2025) @ [KTH AI Society](https://kthais.com):<br> 
+- :robot: [KTH AI Society: ](https://kthais.com) Chairman of the Board (2024-2025)<br> 
  I am passionate about Artificial Intelligence and its potential to change the world.
-- :rocket: AI Society: Head of Business Development (2023-2024) @ [KTH AI Society](https://kthais.com) : <br> 
+- :rocket: [KTH AI Society: ](https://kthais.com) Head of Business Development (2023-2024) @ [KTH AI Society](https://kthais.com) : <br> 
 Established collaborations with QuantumBlack, Nvidia, and Google
 
 ## Projects
