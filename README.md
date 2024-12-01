@@ -1,14 +1,6 @@
 # Hi, I'm Villim Prpić 👋
 
 I am an Applied and Computational Mathematics student at KTH Royal Institute of Technology, passionate about AI, data science, and business development.
-
-## Skills
-- :computer: Skills in Python, Matlab, C++, SQL, Java.
-- :file_folder: Experienced with version control systems (Git).
-- :bulb: Innovative thinker and problem solver.
-- :books: Constantly learning and expanding my knowledge.
-
-## Projects
 </br>
 <h3 align="left">Languages and Tools:</h3>
 <div style="margin-bottom: 20px;">
@@ -18,6 +10,16 @@ I am an Applied and Computational Mathematics student at KTH Royal Institute of 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </div>
 </br>
+
+## Education
+- :mortar_board: Applied and Computational Mathematics, Royal Institute of Technology, (2022-2027)
+- :mortar_board: Natural Sciences - Physics, Lund University, (2021-2022)
+- :robot: AI Society: Chairman of the Board (2024-2025) @ [KTH AI Society](https://kthais.com):<br> 
+ I am passionate about Artificial Intelligence and its potential to change the world.
+- :rocket: AI Society: Head of Business Development (2023-2024) @ [KTH AI Society](https://kthais.com) : <br> 
+Established collaborations with QuantumBlack, Nvidia, and Google
+
+## Projects
 
 ### <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20" height="20"/> Python
 - 📄 [The Paper Puzzle: ](https://github.com/PolitzerAharon/Python/tree/main/The%20Paper%20Puzzle%20-%20A1%20from%20Fragments) <br>  Dynamic programming solution for optimizing paper sheet combinations with geometric progression calculations
@@ -36,14 +38,6 @@ I am an Applied and Computational Mathematics student at KTH Royal Institute of 
 
 ### <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="20" height="20"/>   Java
 - 🔄 [Brownian Motion: ](https://github.com/PolitzerAharon/Java/tree/main/Brownian%20motion) <br> Java-based particle physics simulation with interactive controls for time-step and vector magnitude adjustments
-
-## Education
-- :mortar_board: Applied and Computational Mathematics, Royal Institute of Technology, (2022-2027)
-- :mortar_board: Natural Sciences - Physics, Lund University, (2021-2022)
-- :robot: AI Society: Chairman of the Board (2024-2025) @ [KTH AI Society](https://kthais.com):<br> 
- I am passionate about Artificial Intelligence and its potential to change the world.
-- :rocket: AI Society: Head of Business Development (2023-2024) @ [KTH AI Society](https://kthais.com) : <br> 
-Established collaborations with QuantumBlack, Nvidia, and Google
 
 ## Contact Me
 - :email: E-mail: villim@kth.se and villim@kthais.com
