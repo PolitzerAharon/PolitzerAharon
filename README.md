@@ -9,7 +9,7 @@ I am an Applied and Computational Mathematics student at KTH Royal Institute of 
 - :books: Constantly learning and expanding my knowledge.
 
 ## Projects
-
+</br>
 <h3 align="left">Languages and Tools:</h3>
 <div style="margin-bottom: 20px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
@@ -20,7 +20,7 @@ I am an Applied and Computational Mathematics student at KTH Royal Institute of 
 </div>
 </br>
 
-### Python
+### <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20" height="20"/> Python
 - 📄 [The Paper Puzzle: ](https://github.com/PolitzerAharon/Python/tree/main/The%20Paper%20Puzzle%20-%20A1%20from%20Fragments) <br>  Dynamic programming solution for optimizing paper sheet combinations with geometric progression calculations
 - 📈 [Stock Analysis Tool: ](https://github.com/PolitzerAharon/Python/tree/main/Stock%20Analysis%20Tool) <br>  Real-time stock metrics analyzer with both fundamental and technical analysis, featuring GUI and CLI interfaces
 - 🦅 [Bird Movement Analysis: ](https://github.com/PolitzerAharon/Python/tree/main/Movement%20Analysis%20-%20Parus%20major) <br>  Time series analysis tool visualizing daily, weekly, and yearly patterns of Parus major movements with sunrise/sunset integration
