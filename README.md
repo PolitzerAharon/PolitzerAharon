@@ -12,9 +12,9 @@ I am an Applied and Computational Mathematics student at KTH Royal Institute of 
 </br>
 
 ## Education
-- :mortar_board: [Applied and Computational Mathematics](https://www.kth.se/utbildning/civilingenjor/teknisk-matematik/kurser-och-masterprogram-teknisk-matematik-300-hp-1.923937), Royal Institute of Technology (2022-2027)
-- :mortar_board: [Natural Sciences - Physics](https://www.lunduniversity.lu.se/lubas/i-uoh-lu-NGNAT-ENFY), Lund University, (2021-2022)
-- 🌳 [Forest Engineering](https://www.sumfak.unizg.hr/en/study-programmes/forestry-studies/undergraduate-studies/), Faculty of Forestry, (2014-2017)
+- :mortar_board: [Applied and Computational Mathematics,](https://www.kth.se/utbildning/civilingenjor/teknisk-matematik/kurser-och-masterprogram-teknisk-matematik-300-hp-1.923937) Royal Institute of Technology (2022-2027)
+- :mortar_board: [Natural Sciences - Physics,](https://www.lunduniversity.lu.se/lubas/i-uoh-lu-NGNAT-ENFY) Lund University, (2021-2022)
+- 🌳 [Forest Engineering,](https://www.sumfak.unizg.hr/en/study-programmes/forestry-studies/undergraduate-studies/) Faculty of Forestry, (2014-2017)
 ## Leadership
 - :robot: [KTH AI Society: ](https://kthais.com) Chairman of the Board (2024-2025)<br> 
  I am passionate about Artificial Intelligence and its potential to change the world.
