@@ -15,10 +15,9 @@ I am an Applied and Computational Mathematics student at KTH Royal Institute of 
 ---
 
 ### C++
----
-- 🔢 [Adaptive Simpson Integration: ](https://github.com/PolitzerAharon/Cpp/tree/main/Adaptive%20Simpson%20Integration) Implementation of adaptive quadrature with error control and performance optimization
-- 🌳 [Spatial Search with Quadtrees: ](https://github.com/PolitzerAharon/Cpp/tree/main/Spatial%20Search%20with%20Quadtrees) Geographic data structure implementation for efficient spatial querying of Swedish districts and lakes
-- 📐 [Curve-Based Grid Generation System: ](https://github.com/PolitzerAharon/Cpp/tree/main/Curve-Based%20Grid%20Generation%20System) Structured grid generator using arc-length parameterized curves with 90x performance improvement through caching
+- 🔢 [Adaptive Simpson Integration: ](https://github.com/PolitzerAharon/Cpp/tree/main/Adaptive%20Simpson%20Integration)<br> Implementation of adaptive quadrature with error control and performance optimization
+- 🌳 [Spatial Search with Quadtrees: ](https://github.com/PolitzerAharon/Cpp/tree/main/Spatial%20Search%20with%20Quadtrees) <br> Geographic data structure implementation for efficient spatial querying of Swedish districts and lakes
+- 📐 [Curve-Based Grid Generation System: ](https://github.com/PolitzerAharon/Cpp/tree/main/Curve-Based%20Grid%20Generation%20System) <br> Structured grid generator using arc-length parameterized curves with 90x performance improvement through caching
 
 ## Education
 - :mortar_board: Applied and Computational Mathematics, Royal Institute of Technology (KTH), 2022-2027.
