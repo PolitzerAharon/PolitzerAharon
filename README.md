@@ -13,7 +13,6 @@ Fetching data, chasing citations, and making your professor look good.
 
 💼 Head of Sales @ THS Armada
 Turning charm into profit.
-
 </br>
 <h3 align="left">Languages and Tools:</h3>
 <div style="margin-bottom: 20px;">
