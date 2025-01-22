@@ -2,16 +2,16 @@
 
 🔥 Force of nature by choice.
 
-📊 Applied and Computational Mathematics @ KTH
+📊 Applied and Computational Mathematics @ KTH</br>
 Crunching numbers today so the robots can save your tomorrow.
 
-🤖 Chairman @ KTH AI Society
+🤖 Chairman @ KTH AI Society</br>
 Driving AI development so I can get back to procrastinating.
 
-📚 Research Assistant @ House of Innovation, SSE
+📚 Research Assistant @ House of Innovation, SSE</br>
 Fetching data, chasing citations, and making your professor look good.
 
-💼 Head of Sales @ THS Armada
+💼 Head of Sales @ THS Armada</br>
 Turning charm into profit.
 </br>
 <h3 align="left">Languages and Tools:</h3>
