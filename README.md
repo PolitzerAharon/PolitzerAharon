@@ -1,6 +1,19 @@
 # Hi, I'm Villim 👋
 
-I am an Applied and Computational Mathematics student at KTH Royal Institute of Technology, passionate about AI, data science, and business development.
+🔥 Force of nature by choice.
+
+📊 Applied and Computational Mathematics @ KTH
+Crunching numbers today so the robots can save your tomorrow.
+
+🤖 Chairman @ KTH AI Society
+Driving AI development so I can get back to procrastinating.
+
+📚 Research Assistant @ House of Innovation, SSE
+Fetching data, chasing citations, and making your professor look good.
+
+💼 Head of Sales @ THS Armada
+Turning charm into profit.
+
 </br>
 <h3 align="left">Languages and Tools:</h3>
 <div style="margin-bottom: 20px;">
