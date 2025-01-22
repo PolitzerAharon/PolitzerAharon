@@ -24,16 +24,6 @@ Turning charm into profit.
 </div>
 </br>
 
-## Education
-- :mortar_board: [Applied and Computational Mathematics,](https://www.kth.se/utbildning/civilingenjor/teknisk-matematik/kurser-och-masterprogram-teknisk-matematik-300-hp-1.923937) Royal Institute of Technology (2022-2027)
-- :mortar_board: [Natural Sciences - Physics,](https://www.lunduniversity.lu.se/lubas/i-uoh-lu-NGNAT-ENFY) Lund University, (2021-2022)
-- 🌳 [Forest Engineering,](https://www.sumfak.unizg.hr/en/study-programmes/forestry-studies/undergraduate-studies/) Faculty of Forestry, (2014-2017)
-## Leadership
-- :robot: [KTH AI Society: ](https://kthais.com) Chairman of the Board (2024-2025)<br> 
- I am passionate about Artificial Intelligence and its potential to change the world.
-- :rocket: [KTH AI Society: ](https://kthais.com) Head of Business Development (2023-2024)<br> 
-Established collaborations with QuantumBlack, Nvidia, and Google
-
 ## Projects
 
 ### <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20" height="20"/> Python
@@ -53,7 +43,16 @@ Established collaborations with QuantumBlack, Nvidia, and Google
 
 ### <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="20" height="20"/>   Java
 - 🔄 [Brownian Motion: ](https://github.com/PolitzerAharon/Java/tree/main/Brownian%20motion) <br> Java-based particle physics simulation with interactive controls for time-step and vector magnitude adjustments
-
+- 
+## Education
+- :mortar_board: [Applied and Computational Mathematics,](https://www.kth.se/utbildning/civilingenjor/teknisk-matematik/kurser-och-masterprogram-teknisk-matematik-300-hp-1.923937) Royal Institute of Technology (2022-2027)
+- :mortar_board: [Natural Sciences - Physics,](https://www.lunduniversity.lu.se/lubas/i-uoh-lu-NGNAT-ENFY) Lund University, (2021-2022)
+- 🌳 [Forest Engineering,](https://www.sumfak.unizg.hr/en/study-programmes/forestry-studies/undergraduate-studies/) Faculty of Forestry, (2014-2017)
+## Leadership
+- :robot: [KTH AI Society: ](https://kthais.com) Chairman of the Board (2024-2025)<br> 
+ I am passionate about Artificial Intelligence and its potential to change the world.
+- :rocket: [KTH AI Society: ](https://kthais.com) Head of Business Development (2023-2024)<br> 
+Established collaborations with QuantumBlack, Nvidia, and Google
 ## Contact Me
 - :email: E-mail: villim@kth.se and villim@kthais.com
 - :globe_with_meridians: Website: Coming Soon :construction:
