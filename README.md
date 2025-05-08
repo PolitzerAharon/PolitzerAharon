@@ -4,9 +4,8 @@
 📊 Applied and Computational Mathematics @ KTH</br>
 🤖 Chairman @ KTH AI Society</br>
 📚 Research Assistant @ House of Innovation, SSE</br>
-
 💼 Head of Sales @ THS Armada</br>
-*Turning charm into profit.*
+
 </br>
 <h3 align="left">Languages and Tools:</h3>
 <div style="margin-bottom: 20px;">
