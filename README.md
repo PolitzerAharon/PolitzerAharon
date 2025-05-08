@@ -1,6 +1,5 @@
 # Hi, I'm Villim 👋
 
-🔥 Force of nature by choice.
 📊 Applied and Computational Mathematics @ KTH</br>
 🤖 Chairman @ KTH AI Society</br>
 📚 Research Assistant @ House of Innovation, SSE</br>
