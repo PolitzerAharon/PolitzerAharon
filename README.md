@@ -3,7 +3,6 @@
 📊 Applied and Computational Mathematics @ KTH</br>
 🤖 Chairman @ KTH AI Society</br>
 📚 Research Assistant @ House of Innovation, SSE</br>
-💼 Head of Sales @ THS Armada</br>
 
 </br>
 <h3 align="left">Languages and Tools:</h3>
