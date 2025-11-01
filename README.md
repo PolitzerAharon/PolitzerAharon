@@ -1,6 +1,6 @@
 # Hi, I'm Villim 👋
 
-🤖 Chairman @ KTH AI Society</br>
+🤖 Board Advisor @ KTH AI Society</br>
 📚 Research Assistant @ House of Innovation, SSE</br>
 📊 Applied and Computational Mathematics @ KTH</br>
 
